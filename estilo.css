@@ -1,0 +1,22 @@
+* {margin:0px ; padding:0px ; border: 0px}
+p {text-align: justify}
+h1 {font-size: 1.5em; color:black ; font-weight: bold ; text-decoration: none ; text-align: center; font-family: "Estrangelo Edessa"}
+h2 {font.size: 0.4em; color:green ; font-weight: none ; text-decoration: none ; text-align: left; margin-top:50px; font-family: "Estrangelo Edessa"}
+h3 {font.size: 1.9em; color:blue ; font-weight: bold ; text-decoration: none ; text-align: left; font-family: "Estrangelo Edessa"}
+h4 {font-size: 1.4em; color:black ; font-weight: bold ; text-decoration: underline ; text-align: left; font-family: "Estrangelo Edessa"}
+body {text-align: center; color:blue}
+#global {width:800px ; margin: 4px auto}
+
+
+#logotipo   {background-color: white; width:280px; float:left}
+
+#piedos {background-color:white; float:left; width:498px}
+
+				 					overflow: hidden }
+a {color: blue; font-size:1.1em ; text-decoration: none}
+a {color: white ; text-decoration:none ; display:block}
+a:link {color:pink ; text-decoration:none}
+a:visited {}
+a:hover {color:black ; text-decoration:underline ; background-color: none}
+a:active {color:orange ; text-decoration:none}
+
