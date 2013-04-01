@@ -4,13 +4,14 @@ h1 {font-size: 1.5em; color:black ; font-weight: bold ; text-decoration: none ; 
 h2 {font.size: 0.4em; color:green ; font-weight: none ; text-decoration: none ; text-align: left; margin-top:50px; font-family: "Estrangelo Edessa"}
 h3 {font.size: 1.9em; color:blue ; font-weight: bold ; text-decoration: none ; text-align: left; font-family: "Estrangelo Edessa"}
 h4 {font-size: 1.4em; color:black ; font-weight: bold ; text-decoration: underline ; text-align: left; font-family: "Estrangelo Edessa"}
-body {text-align: center; color:blue}
-#global {width:800px ; margin: 4px auto}
+body {text-align: center; background-color: #C9DCDC}
+#fondo {background-color: #C9DCDC}
+#global {width:800px ; margin: 4px auto; background-color:#C9DCDC}
 
 
-#logotipo   {background-color: white; width:280px; float:left}
+#logotipo   {background-color: #C9DCDC; width:280px; float:left}
 
-#piedos {background-color:white; float:left; width:498px}
+#piedos {background-color:#C9DCDC; float:left; width:498px}
 
 				 					overflow: hidden }
 a {color: blue; font-size:1.1em ; text-decoration: none}
